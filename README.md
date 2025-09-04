@@ -16,8 +16,7 @@ The acquired data is shown on an **LCD** and sent via **UART** to a PC.
 
 - **code/** → All embedded C source files and drivers  
 - **report/** → Final project report (PDF/DOCX)  
-- **images/** → Block diagram, flowchart, output screenshots  
-- **videos/** → (Optional) Demo video of the project  
+- **images/** → Block diagram, flowchart, output screenshots,Demo video of the project  
 - **README.md** → Documentation  
 
 
